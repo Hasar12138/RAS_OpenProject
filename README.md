@@ -22,6 +22,6 @@ Considering the problem of controlling the drone and the complexity of the path,
 
 ---
 ## Communication
-&emsp;&emsp;&emsp;-
+&emsp;&emsp;&emsp;-At the beginning, the connection between the Socket Server and the Client between the PC and the Jetbot must be established. The Socket Server must always monitor the connection until the drone reaches the end point; (the UAV will send a Flag_1 signal after it reaches the end point); Jetbot accepts After reaching the Flag signal, it will do a circle action.
 
 ![image](https://user-images.githubusercontent.com/71862228/168427106-8f1d4d42-0ae7-43d0-8ebe-5cc1f336e1eb.png)
