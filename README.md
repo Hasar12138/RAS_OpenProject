@@ -36,3 +36,8 @@ Considering the problem of controlling the drone and the complexity of the path,
 &emsp;&emsp;&emsp;-Then the drone arrives at the starting point through another path planning. After arriving, the Socket Client will send the Flag_2 signal; Jetbot will stop the circle action after receiving the Flag signal.
 
 ![image](https://user-images.githubusercontent.com/71862228/168427106-8f1d4d42-0ae7-43d0-8ebe-5cc1f336e1eb.png)
+
+---
+## unfinished content
+&emsp;&emsp;&emsp;-Our original idea was to let Jetbot go back to the starting point with Tello, but since Jetbot's opencv-contrib-python could not be imported into our python file; so we finally chose something else; <br />
+&emsp;&emsp;&emsp;-But we've done a simulation of jetbot's ARUCO code-based detection tracking. The Code is in : /src/jetbot_sim.py
