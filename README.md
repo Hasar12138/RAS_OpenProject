@@ -8,9 +8,8 @@ Open project for RAS course
 &emsp;&emsp;&emsp; -Tello Drone,Jetbot and Their front camera <br />
 &emsp;&emsp;&emsp; -Personal laptop to run the code through extra wireless card and ZeroTier <br />
 &emsp;&emsp;&emsp; -Algorithm (A* Path Planning Algorithm) <br />
-&emsp;&emsp;&emsp; -Communication (Python Socket Server and Client)
-
-
+&emsp;&emsp;&emsp; -Communication (Python Socket Server and Client) <br />
+&emsp;&emsp;&emsp; -DataFlow (shows as below) <br />
 
 ![image](https://user-images.githubusercontent.com/71862228/168425580-b627fbd7-3d8f-4bbb-94d8-56436c87244d.png)
 
