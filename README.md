@@ -6,6 +6,9 @@ Open project for RAS course
 
 ### The System
 &emsp;&emsp;&emsp; -Tello Drone,Jetbot and Their front camera <br />
+&emsp;&emsp;&emsp; -Personal laptop to run the code through extra wireless card and ZeroTier <br />
+&emsp;&emsp;&emsp; -Algorithm (A* Path Planning Algorithm) <br />
+&emsp;&emsp;&emsp; -Communication (Python Socket Server and Client)
 
 
 
