@@ -28,7 +28,7 @@ python3 server_pc.py
 Considering the problem of controlling the drone and the complexity of the path, we finally chose the A* algorithm; because the path given by the A* algorithm is more suitable for the drone.
 | A* algorithm                                                                          | RRT algorithm                                                                 | RRT* algorithm                                                                          |
 | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| [<img src="img/a_star.gif" width=250>] | [<img src="img/rrt.gif" width=250>] | [<img src="img/rrt_star.gif" width=250>] |
+| <img src="img/a_star.gif" width=250> | <img src="img/rrt.gif" width=250> | <img src="img/rrt_star.gif" width=250> |
 
 ---
 ## Communication
