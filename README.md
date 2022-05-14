@@ -5,6 +5,7 @@ Open project for RAS course
 ---
 
 ### Path Planning
+![image](https://user-images.githubusercontent.com/71862228/168425533-e6e642ee-0548-45c3-bfa8-9bef58b38680.png)
 
 
 
