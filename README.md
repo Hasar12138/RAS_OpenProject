@@ -4,7 +4,7 @@ Open project for RAS course
 
 ---
 
-### Path Planning
+### Project Structure
 ![image](https://user-images.githubusercontent.com/71862228/168425580-b627fbd7-3d8f-4bbb-94d8-56436c87244d.png)
 
 
