@@ -1,6 +1,9 @@
 # RAS_OpenProject
 Open project for RAS course
-
+### Run code of PC part
+``` shell
+python3 test_open.py
+```
 
 ---
 
