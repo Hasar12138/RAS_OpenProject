@@ -4,9 +4,9 @@ Open project for RAS course
 
 ---
 
-### Lab 2 - Path Planning
+### Path Planning
 
-在 Lab 2 我們要實作路徑規劃 (Path Planning) 的演算法，這些演算法的目標通常為找到起點與終點的最佳路徑；我們總共有 3 個需要實作的算法，分別為 `A* algorithm`、`RRT algorithm`，以及 `RRT* algorithm`。
+
 
 - 題目要求: [lab2.pdf](lab2/lab2.pdf)
 - 題目解釋: [lab2-hint.pdf](lab2/lab2_hint.pdf)
