@@ -15,13 +15,13 @@ Open project for RAS course
 ## Draw the map of ICT Classroom
 &emsp;&emsp;&emsp; -We hand-animated a 2D map of an ICT classroom for use in an algorithm for path planning. <br />
 <br />
-<img src="./map.jpeg" width=250>
+<img src="img/map.jpeg" width=250>
 ## Choice of Path Planning Algorithms
 &emsp;&emsp;&emsp; -At first we were interested in the following three path planning algorithms, which are A*, RRT and RRT* algorithms;<br />
 Considering the problem of controlling the drone and the complexity of the path, we finally chose the A* algorithm; because the path given by the A* algorithm is more suitable for the drone.
 | A* algorithm                                                                          | RRT algorithm                                                                 | RRT* algorithm                                                                          |
 | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| [<img src="./a_star.gif" width=250>](lab2/program/PathPlanning/dijkstra.py) | [<img src="./rrt.gif" width=250>](lab2/program/PathPlanning/rrt.py) | [<img src="./rrt_star.gif" width=250>](lab2/program/PathPlanning/rrt_star.py) |
+| [<img src="img/a_star.gif" width=250>](lab2/program/PathPlanning/dijkstra.py) | [<img src="img/rrt.gif" width=250>](lab2/program/PathPlanning/rrt.py) | [<img src="img/rrt_star.gif" width=250>](lab2/program/PathPlanning/rrt_star.py) |
 
 ---
 ## Communication
