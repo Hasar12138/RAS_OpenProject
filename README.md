@@ -4,6 +4,10 @@ Open project for RAS course
 ``` shell
 python3 test_open.py
 ```
+### Run code of JetBot part
+``` shell
+python3 server_pc.py
+```
 
 ---
 
