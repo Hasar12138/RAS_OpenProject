@@ -15,6 +15,6 @@ Open project for RAS course
 
 | A* algorithm                                                                          | RRT algorithm                                                                 | RRT* algorithm                                                                          |
 | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| [<img src="./a_star.gif" width=250>](lab2/program/PathPlanning/dijkstra.py) | [<img src="./rrt.gif" width=250>](lab2/program/PathPlanning/rrt.py) | [<img src=".rrt_star.gif" width=250>](lab2/program/PathPlanning/rrt_star.py) |
+| [<img src="./a_star.gif" width=250>](lab2/program/PathPlanning/dijkstra.py) | [<img src="./rrt.gif" width=250>](lab2/program/PathPlanning/rrt.py) | [<img src="./rrt_star.gif" width=250>](lab2/program/PathPlanning/rrt_star.py) |
 
 ---
