@@ -2,14 +2,40 @@ import socket
 import threading
 import time
 import sys
+from jetbot import Robot
 
+robot = Robot()
+def stop():
+    robot.stop()
+    
+def step_forward():
+    robot.forward(0.4)
+    time.sleep(0.5)
+    robot.stop()
 
+def step_backward():
+    robot.backward(0.4)
+    time.sleep(0.5)
+    robot.stop()
 
+def step_left():
+    robot.left(0.3)
+    time.sleep(0.5)
+    robot.stop()
+
+def step_right():
+    robot.right(0.3)
+    time.sleep(0.5)
+    robot.stop
+    
 flag = 0
 global flag_11
 flag_11 = 0
+
 def cv_face():
-    print('okok')
+    robot.set_motors(0.318,0.3)
+    time.sleep(3)
+    robot.stop()
 
 def socket_service():
     global flag_11
@@ -18,7 +44,7 @@ def socket_service():
         s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
         # 防止socket server重启后端口被占用（socket.error: [Errno 98] Address already in use）
         s.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
-        s.bind(('192.168.1.25', 6666))
+        s.bind(('192.168.1.89', 6666))
         s.listen(10)
     except socket.error as msg:
         print(msg)
