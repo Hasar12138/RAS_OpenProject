@@ -53,3 +53,5 @@ https://www.youtube.com/watch?v=G2ubyRQYk7c
 &emsp;&emsp;&emsp;-If the center of the aruco yard is in area 4 then let the Jetbot go forward and turn right<br />
 &emsp;&emsp;&emsp;-If the center of the aruco yard is in the straight forward area, let the Jetbot go forward<br />
 &emsp;&emsp;&emsp;-If the center of the aruco yard is in the straight back area, let the Jetbot go back<br />
+<br />
+<img src="img/additional.gif" width=250>
