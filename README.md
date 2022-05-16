@@ -56,7 +56,9 @@ https://www.youtube.com/watch?v=G2ubyRQYk7c
 <br />
 <img src="img/additional.png" >
 ## System additional
- &emsp;&emsp;&emsp;- Our original plan was to stick an aruco code on the bottom of the tello or hang an aruco code with a rope on the tello, and use the jetbot to detect the aruco code; then control the Jetbot through our code (jetbot_sim.py) to follow the tello back to the starting point .
+ &emsp;&emsp;&emsp;- Our original plan was to obtain images through Tello's monocular camera, use orb_slam2 to obtain point cloud information, and obtain the grid map of the teacher's environment;In the end, it was found that the perception of the environment by the monocular camera is very limited; so we gave up the original idea of using orb_slam2 (visual slam);  <br />
+Finally change the content to the following:   <br />
+First, draw a 2D map of the teacher manually, and then let the drone patrol through path planning; Paste an aruco code on the bottom of the tello or hang an aruco code with a rope on the tello, and use it in the jetbot to detect the aruco code; then control the Jetbot to follow the tello back to the starting point through our code (jetbot_sim.py).
 
 
 ![image](https://user-images.githubusercontent.com/71862228/168605624-1884aa9a-14ad-4fb8-9f63-447cb93bbe01.png)
