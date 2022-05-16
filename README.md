@@ -55,7 +55,8 @@ https://www.youtube.com/watch?v=G2ubyRQYk7c
 &emsp;&emsp;&emsp;-If the center of the aruco yard is in the straight back area, let the Jetbot go back<br />
 <br />
 <img src="img/additional.png" >
-
+## System additional
+ &emsp;&emsp;&emsp;- Our original plan was to stick an aruco code on the bottom of the tello or hang an aruco code with a rope on the tello, and use the jetbot to detect the aruco code; then control the Jetbot through our code (jetbot_sim.py) to follow the tello back to the starting point .
 
 
 ![image](https://user-images.githubusercontent.com/71862228/168605624-1884aa9a-14ad-4fb8-9f63-447cb93bbe01.png)
