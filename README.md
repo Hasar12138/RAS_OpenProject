@@ -43,3 +43,5 @@ Considering the problem of controlling the drone and the complexity of the path,
 ## unfinished content
 &emsp;&emsp;&emsp;-Our original idea was to let Jetbot go back to the starting point with Tello, but since Jetbot's opencv-contrib-python could not be imported into our python file; so we finally chose something else; <br />
 &emsp;&emsp;&emsp;-But we've done a simulation of jetbot's ARUCO code-based detection tracking. The Code is in : src/jetbot_sim.py
+### Additional demo video
+https://www.youtube.com/watch?v=G2ubyRQYk7c
