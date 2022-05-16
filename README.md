@@ -47,9 +47,9 @@ Considering the problem of controlling the drone and the complexity of the path,
 https://www.youtube.com/watch?v=G2ubyRQYk7c
 ### Explanation
 &emsp;&emsp;&emsp;-We divided the image into six areas, namely area 1, area 2, area 3, area 4 and the straight forward area and the straight back area;
--If the center of the aruco yard is in area 1 then let the Jetbot go and turn right<br />
--If the center of the aruco yard is in area 2 then let the Jetbot go forward and turn left<br />
--If the center of the aruco yard is in area 3 then make the Jetbot back while turning left<br />
--If the center of the aruco yard is in area 4 then let the Jetbot go forward and turn right<br />
--If the center of the aruco yard is in the straight forward area, let the Jetbot go forward<br />
--If the center of the aruco yard is in the straight back area, let the Jetbot go back<br />
+&emsp;&emsp;&emsp;v-If the center of the aruco yard is in area 1 then let the Jetbot go and turn right<br />
+&emsp;&emsp;&emsp;-If the center of the aruco yard is in area 2 then let the Jetbot go forward and turn left<br />
+&emsp;&emsp;&emsp;-If the center of the aruco yard is in area 3 then make the Jetbot back while turning left<br />
+&emsp;&emsp;&emsp;-If the center of the aruco yard is in area 4 then let the Jetbot go forward and turn right<br />
+&emsp;&emsp;&emsp;-If the center of the aruco yard is in the straight forward area, let the Jetbot go forward<br />
+&emsp;&emsp;&emsp;-If the center of the aruco yard is in the straight back area, let the Jetbot go back<br />
