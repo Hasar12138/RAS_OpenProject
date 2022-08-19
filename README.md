@@ -10,7 +10,7 @@ python3 test_open.py
 ``` shell
 python3 server_pc.py
 ```
-
+ 
 ---
 
 ## The System
